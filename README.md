@@ -10,3 +10,5 @@ shift to see stats
 
 space to shoot the bricks 
 good luck 
+
+![A Picture Of The Game](red_man.png) 
